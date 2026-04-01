@@ -28,6 +28,7 @@ Python • PySpark • SQL • PostgreSQL • MongoDB • Apache Airflow • Doc
 End-to-end ETL pipeline and dimensional data warehouse built with PySpark and Airflow for supply chain analytics.
 
 Repository
+
 https://github.com/dominicvito31/supply-chain-data-warehouse
 
 ---
@@ -37,6 +38,7 @@ https://github.com/dominicvito31/supply-chain-data-warehouse
 Modular ETL pipeline with data quality validation using Great Expectations and Airflow orchestration.
 
 Repository
+
 https://github.com/dominicvito31/automated-etl-airflow-pipeline
 
 ---
@@ -46,6 +48,7 @@ https://github.com/dominicvito31/automated-etl-airflow-pipeline
 Exploratory data analysis and statistical testing of sales performance with an interactive Tableau dashboard.
 
 Repository
+
 https://github.com/dominicvito31/ecommerce-sales-analysis
 
 ---
@@ -55,6 +58,7 @@ https://github.com/dominicvito31/ecommerce-sales-analysis
 Pipeline that scrapes product data from an e-commerce website, cleans it with Python, and loads structured data into PostgreSQL.
 
 Repository
+
 https://github.com/dominicvito31/retail-webscraping-etl
 
 ---
