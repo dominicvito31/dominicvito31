@@ -5,15 +5,15 @@ I build data pipelines, analytical workflows, and data warehouse systems using m
 ## Core Skills
 
 Data Engineering
-• ETL pipeline development
-• Workflow orchestration
-• Dimensional data modeling
-• Data warehouse design
+* ETL pipeline development
+* Workflow orchestration
+* Dimensional data modeling
+* Data warehouse design
 
 Data Analysis
-• Exploratory data analysis
-• Statistical testing
-• Data visualization
+* Exploratory data analysis
+* Statistical testing
+* Data visualization
 
 Technologies
 Python • PySpark • SQL • PostgreSQL • MongoDB • Apache Airflow • Docker • Pandas • Tableau
@@ -69,4 +69,5 @@ https://github.com/dominicvito31/data-portfolio
 # Contact
 
 LinkedIn
+
 https://www.linkedin.com/in/dominicvito/
