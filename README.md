@@ -16,6 +16,7 @@ Data Analysis
 * Data visualization
 
 Technologies
+
 Python • PySpark • SQL • PostgreSQL • MongoDB • Apache Airflow • Docker • Pandas • Tableau
 
 ---
